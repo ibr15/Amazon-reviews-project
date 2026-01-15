@@ -1,0 +1,14 @@
+In the first stage, the project proved to be very challenging and ambiguous.
+I was not familiar with the data, nor did I know the role of each step in the process. 
+Too many new ideas were introduced at the start, and I found myself lost among them.
+
+To overcome these challenges, I broke down my project into smaller parts and then started learning about each part one by one. 
+As and when any uncertainties came up, I referred to various online sources and gained basic knowledge about pandas. 
+I was able to learn how to analyze my data, check my columns, and use basic conditional filtering.
+
+This experience proved that in the world of real-world data, 
+there are always some errors or some values that are missing. It also proved that learning is not an overnight process, 
+and it is okay to learn at one's own pace. By the end of this experience, 
+I was familiarized not only with pandas, but also with working in Jupyter Notebook, and I was able to learn a lot by doing, not by reading.
+
+One thing that can be noted from the histogram is that many product prices are grouped together, causing the histogram to appear crowded.
